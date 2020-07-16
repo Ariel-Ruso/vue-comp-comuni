@@ -1,0 +1,1 @@
+Vamos a pasar información a través de componentes, en esta primera sección analizaremos los props de Vue.js y su importancia para la recolección de datos.
